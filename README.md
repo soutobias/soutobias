@@ -2,7 +2,10 @@
 
 ## Hi, my name is <strong>Tobias!</strong>
 
-> Faça uma breve aprensentação sobre você e a sua área.
+> I am an oceanographer and have been working for 10 years as an officer and oceanographer for the Brazilian Navy. I work in support of the wave forecasts that the Brazilian Navy performs, as well as being responsible for the most important operational program for collecting oceanographic data in Brazil (PNBOIA).
+> Experience with programming in Matlab, Python, Ruby and SQL database, mainly in relation to the automation of processes to support wave and current forecast for the Marine Meteorological Service of Brazilian Navy. I am currently responsible for National Buoy Program of Brazil and REMO Observacional. I am a Full-Stack Web Developer by Le Wagon.
+
+>   I always wanted to change careers to the IT area. I started an IT college at UFF, but after 2 years I saw that I had no patience for a new degree. Then I saw that Le Wagon was my opportunity to change.
 
 🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
 
