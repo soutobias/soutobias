@@ -18,7 +18,7 @@
 
 ---
 
-## ⭐ Informações sobre minha conta GitHub
+## ⭐ My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soutobias&show_icons=true)
 
 ## 🔭 Main projects
