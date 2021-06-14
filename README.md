@@ -25,7 +25,15 @@
 ---
 
 ## ⭐ My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soutobias&show_icons=true)
+
+<p align="center">
+<a href="https://github.com/soutobias">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=soutobias&show_icon  s=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=soutobias&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
 
 ## 🔭 Main projects
 [beachdayrio](https://github.com/soutobias/beach-day): Ruby on Rails/JS/HTML/CSS. Web application for helping people for choosing beaches in Rio de Janeiro. Connections in googlemaps api, openweather and worldtides and backend with tasks scheduler, webscrapping and selenium
