@@ -2,14 +2,23 @@
 
 ## Hi, my name is <strong>Tobias!</strong>
 
-> I am an oceanographer and have been working for 10 years as an officer and oceanographer for the Brazilian Navy. I work in support of the wave forecasts that the Brazilian Navy performs, as well as being responsible for the most important operational program for collecting oceanographic data in Brazil (PNBOIA).
-> Experience with programming in Matlab, Python, Ruby and SQL database, mainly in relation to the automation of processes to support wave and current forecast for the Marine Meteorological Service of Brazilian Navy. I am currently responsible for National Buoy Program of Brazil and REMO Observacional. I am a Full-Stack Web Developer by Le Wagon.
+> I am an oceanographer and have been working for 10 years as an officer and oceanographer for the Brazilian Navy. I work in support of the wave forecasts that the Brazilian Navy performs, as well as being responsible for the most important operational program for collecting oceanographic data in Brazil: National Buoy Program (PNBOIA).
+> I am a Full-Stack Web Developer by Le Wagon and currently doing a Data Science boot camp at Le Wagon.
 
->   I always wanted to change careers to the IT area. I started an IT college at UFF, but after 2 years I saw that I had no patience for a new degree. Then I saw that Le Wagon was my opportunity to change.
+💬 If you have any questions about my repositories or have any other questions, my contact is: tobias.ramalho@marinha.mil.br
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
+## 🔭 Main projects
+beachdayrio: Ruby on Rails/JS/HTML/CSS. Web application for helping people for choosing beaches in Rio de Janeiro. Connections in googlemaps api, openweather and worldtides and backend with tasks scheduler, webscrapping and selenium
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+oceanObsBrasil: PYTHON. Codes for retrieving weather and ocean data from multiple sources for merging into a single database. This data is provided in real time to Marine Weather Service (SMM) forecasters
+
+remobs_qc: PYTHON. Code for managing the buoys of the National Buoys Program and the REMO Observacional project. This repository presents codes for obtaining data from buoys from different manufacturers that transmit data through different satellites (IRIDIUM SBD, INMARSAT, ARGOS), as well as quality control routines used in the PNBOIA and data encoding in BUFR for the GTS. This repository also collect Brazilian Navy WWIII model outputs;
+
+remobs_api: Ruby on Rails. API created to make available data collected by PNBOIA buoys, as well as CHM numerical model results;
+
+spotter: Ruby on Rails/JS/HTML/CSS. Website created to make available the data of the metocean buoy deployed in Antarctica by the REMO Observacional project.
+
+equip-chm112: Ruby on Rails/HTML/CSS. Website to control the equipment of the operational oceanography division of the Brazilian Navy Hydrography Center.
 
 ----
 
