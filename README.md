@@ -2,6 +2,11 @@
 
 > I am an oceanographer with ten years of experience with operational oceanography, data analasys and metocean instrumentation, mainly related on buoy systems. Manager of Brazil National Buoy Program (PNBOIA) and REMO Observacional. I am a Full-Stack WebDev and currently doing a Data Science boot camp at Le Wagon.
 
+## Follow me
+[![Gmail Badge](https://img.shields.io/badge/-ing.miller.vega@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ing.miller.vega@gmail.com)](mailto:tobias.ramalho.ferreira@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-minoveaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soutobias/)](https://www.linkedin.com/in/soutobias/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/soutobias)](https://github.com/soutobias)
+
 ## 🚀 My Skills
 
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="python"/></code>
