@@ -1,6 +1,6 @@
 ## Hi, my name is <strong>Tobias!</strong>
 
-> I am an oceanographer and with Ten years of experience with operational oceanography, and oceanography and meteorological instrumentation, with emphasis on buoy systems. I am a Full-Stack WebDev and currently doing a Data Science boot camp at Le Wagon.
+> I am an oceanographer with ten years of experience with operational oceanography, data analasys and metocean instrumentation, mainly related on buoy systems. Manager of Brazil National Buoy Program and REMO Observacional. I am a Full-Stack WebDev and currently doing a Data Science boot camp at Le Wagon.
 
 ## 🚀 Minhas Skills
 
