@@ -6,17 +6,17 @@
 💬 If you have any questions about my repositories or have any other questions, my contact is: tobias.ramalho@marinha.mil.br
 
 ## 🔭 Main projects
-beachdayrio: Ruby on Rails/JS/HTML/CSS. Web application for helping people for choosing beaches in Rio de Janeiro. Connections in googlemaps api, openweather and worldtides and backend with tasks scheduler, webscrapping and selenium
+[beachdayrio](https://github.com/soutobias/beach-day): Ruby on Rails/JS/HTML/CSS. Web application for helping people for choosing beaches in Rio de Janeiro. Connections in googlemaps api, openweather and worldtides and backend with tasks scheduler, webscrapping and selenium
 
-oceanObsBrasil: PYTHON. Codes for retrieving weather and ocean data from multiple sources for merging into a single database. This data is provided in real time to Marine Weather Service (SMM) forecasters
+[oceanObsBrasil](https://github.com/soutobias/oceanobsbrasil): PYTHON. Codes for retrieving weather and ocean data from multiple sources for merging into a single database. This data is provided in real time to Marine Weather Service (SMM) forecasters
 
-remobs_qc: PYTHON. Code for managing the buoys of the National Buoys Program and the REMO Observacional project. This repository presents codes for obtaining data from buoys from different manufacturers that transmit data through different satellites (IRIDIUM SBD, INMARSAT, ARGOS), as well as quality control routines used in the PNBOIA and data encoding in BUFR for the GTS. This repository also collect Brazilian Navy WWIII model outputs;
+[remobs_qc](https://github.com/soutobias/remobs_qc): PYTHON. Code for managing the buoys of the National Buoys Program and the REMO Observacional project. This repository presents codes for obtaining data from buoys from different manufacturers that transmit data through different satellites (IRIDIUM SBD, INMARSAT, ARGOS), as well as quality control routines used in the PNBOIA and data encoding in BUFR for the GTS. This repository also collect Brazilian Navy WWIII model outputs;
 
-remobs_api: Ruby on Rails. API created to make available data collected by PNBOIA buoys, as well as CHM numerical model results;
+[remobs_api](https://github.com/soutobias/remobs_api): Ruby on Rails. API created to make available data collected by PNBOIA buoys, as well as CHM numerical model results;
 
-spotter: Ruby on Rails/JS/HTML/CSS. Website created to make available the data of the metocean buoy deployed in Antarctica by the REMO Observacional project.
+[spotter](https://github.com/soutobias/spotter): Ruby on Rails/JS/HTML/CSS. Website created to make available the data of the metocean buoy deployed in Antarctica by the REMO Observacional project.
 
-(equip-chm112)[https://github.com/soutobias/equip-chm112]: Ruby on Rails/HTML/CSS. Website to control the equipment of the operational oceanography division of the Brazilian Navy Hydrography Center.
+[equip-chm112](https://github.com/soutobias/equip-chm112): Ruby on Rails/HTML/CSS. Website to control the equipment of the operational oceanography division of the Brazilian Navy Hydrography Center.
 
 ----
 
