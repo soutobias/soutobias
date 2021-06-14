@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## Hi, my name is <strong>Tobias!</strong>
 
 > I am an oceanographer and have been working for 10 years as an officer and oceanographer for the Brazilian Navy. I work in support of the wave forecasts that the Brazilian Navy performs, as well as being responsible for the most important operational program for collecting oceanographic data in Brazil: National Buoy Program (PNBOIA).
@@ -18,7 +16,7 @@ remobs_api: Ruby on Rails. API created to make available data collected by PNBOI
 
 spotter: Ruby on Rails/JS/HTML/CSS. Website created to make available the data of the metocean buoy deployed in Antarctica by the REMO Observacional project.
 
-equip-chm112: Ruby on Rails/HTML/CSS. Website to control the equipment of the operational oceanography division of the Brazilian Navy Hydrography Center.
+(equip-chm112)[https://github.com/soutobias/equip-chm112]: Ruby on Rails/HTML/CSS. Website to control the equipment of the operational oceanography division of the Brazilian Navy Hydrography Center.
 
 ----
 
