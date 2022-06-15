@@ -51,6 +51,8 @@
 - [Noronha](https://github.com/pnboia-brasil/noronha): Ruby on rails, HTML, CSS, JS. App for a environmental monitoring system in Noronha. Web app: [www.noronha.live](http://www.noronha.live); and
 - [bmocampos](https://github.com/soutobias/bmosantos). A site to view the data of a buoy on the Brazilian coast. Python folium, plotly, streamlit, Heroku. Use daat technique for wave plot (PARENTE, 1999). Python folium, plotly, streamlit, Heroku. App: [bmocampos.herokuapṕ.com](bmocampos.herokuapṕ.com).
 
+[inmetpy](https://github.com/soutobias/inmetpy): PYTHON.  An PIP python package To access data from the BRAZIL National Institute of Meteorology (Inmet). Try: pip install inmetpy.
+
 [equip-chm112](https://github.com/soutobias/equip-chm112): Ruby on Rails, HTML, CSS. Website to control the equipment of the operational oceanography division of the Brazilian Navy Hydrography Center. Web app: [http://equip-pnboia.herokuapp.com/](http://equip-pnboia.herokuapp.com/).
 
 ----
