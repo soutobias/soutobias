@@ -1,6 +1,6 @@
 ## Hi, my name is <strong>Tobias!</strong>
 
-> I am an oceanographer with ten years of experience with operational oceanography, data analasys and metocean instrumentation, mainly related on buoy systems. Manager of Brazil National Buoy Program (PNBOIA) and REMO Observacional. I am a Full-Stack WebDev and currently doing a Data Science boot camp at Le Wagon.
+> I am an oceanographer with eleven years of experience with operational oceanography, data analasys and metocean instrumentation, mainly related on buoy systems. Manager of Brazil National Buoy Program (PNBOIA). I am a Full-Stack WebDev and Data Scientist.
 
 ## Follow me
 [![Gmail Badge](https://img.shields.io/badge/-tobias.ramalho.ferreira@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tobias.ramalho.ferreira@gmail.com)](mailto:tobias.ramalho.ferreira@gmail.com)
@@ -36,13 +36,21 @@
 
 
 ## 🔭 Main projects
-[beachdayrio](https://github.com/soutobias/beach-day): Ruby on Rails/JS/HTML/CSS. Web application for helping people for choosing beaches in Rio de Janeiro. Connections in googlemaps api, openweather and worldtides and backend with tasks scheduler, webscrapping and selenium
+[oceanoobsbrasil](https://github.com/soutobias/oceanoobsbrasil): PYTHON. A pip python package for retrieving weather and ocean data for the Brazilian Coast. These data came from more than 1100 sources, like buoys, tide gauges, weather stations, satelites and ships. The data are merged in a single postgre DB. Use of BS4, selenium, xarray, requests, packegenlite, pandas, sqlalchemy. Codes are running in a AWS EC2.
 
-[oceanObsBrasil](https://github.com/soutobias/oceanobsbrasil): PYTHON. Codes for retrieving weather and ocean data from multiple sources for merging into a single database. This data is provided in real time to Marine Weather Service (SMM) forecasters
+[oceanoobsbrasil_web](https://github.com/soutobias/oceanoobsbrasil_web): ROR, HTML, CSS, JS. A app to visualize all the data obtained by the [oceanoobsbrasil](https://github.com/soutobias/oceanoobsbrasil) codes. This app is open source and available at [www.oceano.live](http://www.oceano.live). Use of lealflet, mapbox, ajax, plotly, devise, heroku.
+
+
+[dharmaremobs_qc](https://github.com/soutobias/remobs_qc)
+www.dharmaproject.one (pythON, ROR, HTML, CSS, JS)
+Deep learning NLP techniques and pre-trained sentiment anaLYSIs models applied in hundredS of thousands OF newspaper articles. USE OF GCP, Docker, API, and mathematical fractal theory. GITHUB: DHARMAPROJECT, dharma_analysis, bucketapi
 
 [remobs_qc](https://github.com/soutobias/remobs_qc): PYTHON. Code for managing the buoys of the National Buoys Program and the REMO Observacional project. This repository presents codes for obtaining data from buoys from different manufacturers that transmit data through different satellites (IRIDIUM SBD, INMARSAT, ARGOS), as well as quality control routines used in the PNBOIA and data encoding in BUFR for the GTS. This repository also collect Brazilian Navy WWIII model outputs;
 
 [remobs_api](https://github.com/soutobias/remobs_api): Ruby on Rails. API created to make available data collected by PNBOIA buoys, as well as CHM numerical model results;
+
+[beachdayrio](https://github.com/soutobias/beach-day): Ruby on Rails/JS/HTML/CSS. Web application for helping people for choosing beaches in Rio de Janeiro. Connections in googlemaps api, openweather and worldtides and backend with tasks scheduler, webscrapping and selenium
+
 
 [spotter](https://github.com/soutobias/spotter): Ruby on Rails/JS/HTML/CSS. Website created to make available the data of the metocean buoy deployed in Antarctica by the REMO Observacional project.
 
