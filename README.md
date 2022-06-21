@@ -1,6 +1,6 @@
 ## Hi, my name is <strong>Tobias!</strong>
 
-> I am an oceanographer with eleven years of experience with operational oceanography, data analasys and metocean instrumentation, mainly related on buoy systems. Manager of Brazil National Buoy Program (PNBOIA). I am a Full-Stack WebDev and Data Scientist.
+> I am an oceanographer with eleven years of experience with operational oceanography, data analysis and metocean instrumentation, mainly related on buoy systems. I am a Full-Stack WebDev and Data Scientist.
 
 ## Follow me
 [![Gmail Badge](https://img.shields.io/badge/-tobias.ramalho.ferreira@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tobias.ramalho.ferreira@gmail.com)](mailto:tobias.ramalho.ferreira@gmail.com)
