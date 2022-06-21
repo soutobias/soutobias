@@ -55,4 +55,7 @@
 
 [equip-chm112](https://github.com/soutobias/equip-chm112): Ruby on Rails, HTML, CSS. Website to control the equipment of the operational oceanography division of the Brazilian Navy Hydrography Center. Web app: [http://equip-pnboia.herokuapp.com/](http://equip-pnboia.herokuapp.com/).
 
+[machine-learning-examples](https://github.com/soutobias/machine-learning-examples): This repository represents a list of notebooks for analyzing data using machine learning.
+
+[machine-learning-examples](https://github.com/soutobias/deep-learning-examples): This repository represents a list of notebooks for analyzing data using deep learning.
 ----
