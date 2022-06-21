@@ -57,5 +57,6 @@
 
 [machine-learning-examples](https://github.com/soutobias/machine-learning-examples): This repository represents a list of notebooks for analyzing data using machine learning.
 
-[machine-learning-examples](https://github.com/soutobias/deep-learning-examples): This repository represents a list of notebooks for analyzing data using deep learning.
+[deep-learning-examples](https://github.com/soutobias/deep-learning-examples): This repository represents a list of notebooks for analyzing data using deep learning.
+
 ----
