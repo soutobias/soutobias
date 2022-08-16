@@ -53,7 +53,7 @@
 - [bmocampos](https://github.com/soutobias/bmosantos). A site to view the data of a buoy on the Brazilian coast. Python folium, plotly, streamlit, Heroku. Use daat technique for wave plot (PARENTE, 1999). Python folium, plotly, streamlit, Heroku. App: [bmocampos.herokuapṕ.com](bmocampos.herokuapṕ.com); and
 - [pnboia_api](https://github.com/pnboia-brasil/pnboia_api). PYTHON. API created to connect to postgre DB to our web apps. Use of fastapi, docker and AWS.
 
-[inmetpy](https://github.com/soutobias/inmetpy): PYTHON.  An PIP python package to access data from the BRAZIL National Institute of Meteorology (Inmet). Try: pip install inmetpy.
+[inmetpy](https://github.com/ocfgaldino/inmetpy): PYTHON.  An PIP python package to access data from the BRAZIL National Institute of Meteorology (Inmet). Try: pip install inmetpy.
 
 [pnboia_qc](https://github.com/PNBOIA-Brasil/pnboia_qc): PYTHON.  An PIP python package to quality control time series data collected in the ocean.
 
