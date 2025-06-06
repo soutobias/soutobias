@@ -2,11 +2,13 @@
 
 <div style="text-align: justify">I am an Full-Stack Engineer with a strong background in React and Python and big geospatial data, complemented by expertise in environmental science, weather data, data science, and project management.</div>
 
-<div style="text-align: center;">
-  <a style="margin-right: 3px" href="https://www.linkedin.com/in/soutobias/"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a style="margin-right: 3px" href="https://github.com/soutobias"><img src="https://img.icons8.com/fluent/32/000000/github.png" alt="GitHub"/></a>
-  <a style="margin-right: 3px" href="https://orcid.org/0000-0002-0888-9751"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="Orcid" width="32" height="32"/></a>
-  <a style="margin-right: 3px" style="margin-right: 3px" href="https://www.researchgate.net/profile/Tobias-Ferreira-6"><img src="https://img.icons8.com/?size=30&id=JwlJGiL15V81&format=png&color=000000" alt="Research Gate"/></a>
+<br>
+
+<div align="center" style="text-align: center;">
+  <a style="margin-right: 3px" href="https://www.linkedin.com/in/soutobias/" target="_blank"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a style="margin-right: 3px" href="https://github.com/soutobias" target="_blank"><img src="https://img.icons8.com/fluent/32/000000/github.png" alt="GitHub"/></a>
+  <a style="margin-right: 3px" href="https://orcid.org/0000-0002-0888-9751" target="_blank"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="Orcid" width="32" height="32"/></a>
+  <a style="margin-right: 3px" style="margin-right: 3px" href="https://www.researchgate.net/profile/Tobias-Ferreira-6" target="_blank"><img src="https://img.icons8.com/?size=30&id=JwlJGiL15V81&format=png&color=000000" alt="Research Gate"/></a>
   <a href="mailto:tobias.ramalho.ferreira@gmail.com"><img src="https://img.icons8.com/fluent/32/000000/email.png" alt="Email"/></a>
 </div>
 
