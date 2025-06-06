@@ -165,7 +165,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React logo" width="20" height="20">
       </a><br/>
       Develop a functional Phase 1 dashboard for the CCS Carbon Dioxide Monitoring Project for use by oil and gas organizations.<br/>
-      <em>Contributions: entire backend end, frontend, data engineer</em><br/>
+      <em>Contributions: entire backend end, frontend and data engineer</em><br/>
       <a href="https://ccsdashboard.com/"><img src="https://img.shields.io/badge/App-8A2BE2"></a><br/>
     </td>
   </tr>
@@ -177,7 +177,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" alt="Ruby logo" width="16" height="16">
       </a><br/>
       NLP analysis for Brazil and US Ellections using deep learning techniques and pre-trained sentiment analysis models.<br/>
-      <em>Contributions: backend end and entire frontend</em><br/>
+      <em>Contributions: backend and entire frontend</em><br/>
       <a href="https://github.com/soutobias/dharmaproject"><img src="https://img.shields.io/badge/-Frontend-437CAC?logo=Github&logoColor=white&style=flat">&nbsp;</a>
       <a href="https://github.com/soutobias/dharma_analysis"><img src="https://img.shields.io/badge/-Model-437CAC?logo=Github&logoColor=white&style=flat">&nbsp;</a>
       <a href="https://github.com/soutobias/bucketapi"><img src="https://img.shields.io/badge/-REST Api-437CAC?logo=Github&logoColor=white&style=flat">&nbsp;</a>
@@ -196,7 +196,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React logo" width="20" height="20">
       </a><br/>
       Command and control system for managing the weather buoys of the National Buoys Program, and is related to data mining, data engineer, databases and frontend applications.<br/>
-      <em>Contributions: most of the systems</em><br/>
+      <em>Contributions: main developer</em><br/>
       <a href="https://github.com/pnboia-brasil/buoy_web_antartica"><img src="https://img.shields.io/badge/-Data Frontend1-437CAC?logo=Github&logoColor=white&style=flat">&nbsp;</a>
       <a href="https://github.com/pnboia-brasil/buoy_web_noronha"><img src="https://img.shields.io/badge/-Data Frontend2-437CAC?logo=Github&logoColor=white&style=flat">&nbsp;</a>
       <a href="https://github.com/pnboia-brasil/buoy_web_imbituba"><img src="https://img.shields.io/badge/-Data Frontend3-437CAC?logo=Github&logoColor=white&style=flat">&nbsp;</a>
@@ -211,7 +211,8 @@
     <td>
       <strong>Data QC: Weather Data Quality Control Toolbox</strong>
       <img src="https://www.python.org/static/opengraph-icon-200x200.png" alt="Python logo" width="20" height="20"><br/>
-      A Python toolbox for quality control of time series data collected in the ocean, specifically for the Brazilian National Buoy Program (PNBOIA).</em><br/>
+      An open-source Python toolbox for quality control of time series data collected in the ocean, specifically for the Brazilian National Buoy Program (PNBOIA).</em><br/>
+      <em>Contributions: main developer.</em><br/>
       <a href="https://github.com/PNBOIA-Brasil/pnboia_qc"><img src="https://img.shields.io/badge/-GitHub-437CAC?logo=Github&logoColor=white&style=flat">&nbsp;</a>
       <a href="https://pypi.org/project/pnboia-qc/"><img src="https://img.shields.io/badge/-PyPI-3776AB?logo=pypi&logoColor=white&style=flat">&nbsp;</a>
     </td>
@@ -221,10 +222,24 @@
     <td>
       <strong>inmetPy</strong>
       <img src="https://www.python.org/static/opengraph-icon-200x200.png" alt="Python logo" width="20" height="20"><br/>
-      A Python package to consume the API from the Brazilian National Institute of Meteorology (INMET).<br/>
+      An open-source Python package to consume the API from the Brazilian National Institute of Meteorology (INMET).<br/>
       <em>Contributions: development of some features.</em><br/>
       <a href="https://github.com/ocfgaldino/inmetpy"><img src="https://img.shields.io/badge/-GitHub-437CAC?logo=Github&logoColor=white&style=flat">&nbsp;</a>
       <a href="https://pypi.org/project/inmetpy/"><img src="https://img.shields.io/badge/-PyPI-3776AB?logo=pypi&logoColor=white&style=flat">&nbsp;</a>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="_static/forro_liverpool.png" width="400"/></td>
+    <td>
+      <strong>Forro Liverpool</strong>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" alt="Ruby logo" width="16" height="16">
+      </a>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React logo" width="20" height="20">
+      </a><br/>
+      A web application to manage the Forró Liverpool community, including events, members, and more.<br/>
+      <em>Contributions: main developer.</em><br/>
+      <a href="https://github.com/soutobias/forro_liverpool"><img src="https://img.shields.io/badge/-GitHub-437CAC?logo=Github&logoColor=white&style=flat">&nbsp;</a>
+      <a href="https://www.forroliverpool.co.uk/"><img src="https://img.shields.io/badge/App-8A2BE2"></a><br/>
     </td>
   </tr>
 </table>
