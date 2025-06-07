@@ -39,13 +39,13 @@
       </a><br/>
       A tool that consolidates all data from the ReSOW UK project into an accessible, spatially-explorable format that aligns with user's needs and priorities.<br/>
       <em>Contributions: entire application</em><br/>
-      <a href="https://github.com/NOC-OI/resow-ceeds"><img src="https://img.shields.io/badge/-Frontend-437CAC?logo=Github&logoColor=white&style=flat"></a>
-      <a href="https://github.com/NOC-OI/data_pipelines"><img src="https://img.shields.io/badge/-Data Enginner-437CAC?logo=Github&logoColor=white&style=flat"></a>
-      <a href="https://github.com/NOC-OI/imfe-pilot-tileserver"><img src="https://img.shields.io/badge/-Tile Server-437CAC?logo=Github&logoColor=white&style=flat"></a>
-      <a href="https://gitlab.com/nocacuk/ocean-informatics/ReSOW/geoserver"><img src="https://img.shields.io/badge/-Geoserver-437CAC?logo=gitlab&logoColor=white&style=flat"></a>
-      <a href="https://noc-oi.github.io/resow-ceeds/"><img src="https://img.shields.io/badge/-Docs-DC8F0F?logo=readthedocs&logoColor=white&style=flat"></a>
-      <a href="https://ceeds.resow.uk/"><img src="https://img.shields.io/badge/App-8A2BE2"></a><br/>
-      <a href="https://resow.uk/"><img src="https://img.shields.io/badge/-Project Page-3b9c62?logoColor=white&style=flat"></a>
+      <a href="https://github.com/NOC-OI/resow-ceeds" target="_blank"><img src="https://img.shields.io/badge/-Frontend-437CAC?logo=Github&logoColor=white&style=flat"></a>
+      <a href="https://github.com/NOC-OI/data_pipelines" target="_blank"><img src="https://img.shields.io/badge/-Data Enginner-437CAC?logo=Github&logoColor=white&style=flat"></a>
+      <a href="https://github.com/NOC-OI/imfe-pilot-tileserver" target="_blank"><img src="https://img.shields.io/badge/-Tile Server-437CAC?logo=Github&logoColor=white&style=flat"></a>
+      <a href="https://gitlab.com/nocacuk/ocean-informatics/ReSOW/geoserver" target="_blank"><img src="https://img.shields.io/badge/-Geoserver-437CAC?logo=gitlab&logoColor=white&style=flat"></a>
+      <a href="https://noc-oi.github.io/resow-ceeds/" target="_blank"><img src="https://img.shields.io/badge/-Docs-DC8F0F?logo=readthedocs&logoColor=white&style=flat"></a>
+      <a href="https://ceeds.resow.uk/" target="_blank"><img src="https://img.shields.io/badge/App-8A2BE2"></a><br/>
+      <a href="https://resow.uk/" target="_blank"><img src="https://img.shields.io/badge/-Project Page-3b9c62?logoColor=white&style=flat"></a>
     </td>
   </tr>
   <tr>
@@ -55,9 +55,9 @@
       <img src="https://www.python.org/static/opengraph-icon-200x200.png" alt="Python logo" width="20" height="20"><br/>
       A Python package designed to create pipelines for preprocessing image data for biodiversity analysis.<br/>
       <em>Contributions: main developer.</em><br/>
-      <a href="https://github.com/paidiver/paidiverpy"><img src="https://img.shields.io/badge/-GitHub-437CAC?logo=Github&logoColor=white&style=flat"></a>
-      <a href="https://paidiverpy.readthedocs.io/en/latest/"><img src="https://img.shields.io/badge/-Docs-DC8F0F?logo=readthedocs&logoColor=white&style=flat"></a>
-      <a href="https://pypi.org/project/Paidiverpy/"><img src="https://img.shields.io/badge/-PyPI-3776AB?logo=pypi&logoColor=white&style=flat"></a>
+      <a href="https://github.com/paidiver/paidiverpy" target="_blank"><img src="https://img.shields.io/badge/-GitHub-437CAC?logo=Github&logoColor=white&style=flat"></a>
+      <a href="https://paidiverpy.readthedocs.io/en/latest/" target="_blank"><img src="https://img.shields.io/badge/-Docs-DC8F0F?logo=readthedocs&logoColor=white&style=flat"></a>
+      <a href="https://pypi.org/project/Paidiverpy/" target="_blank"><img src="https://img.shields.io/badge/-PyPI-3776AB?logo=pypi&logoColor=white&style=flat"></a>
     </td>
   </tr>
   <tr>
@@ -69,12 +69,12 @@
       </a><br/>
       An  Environmental Digital Twin Pilot Project for a Marine Protected Area in the UK (Haig Fras MPA).<br/>
       <em>Contributions: entire application</em><br/>
-      <a href="https://github.com/NOC-OI/imfe-pilot-frontend"><img src="https://img.shields.io/badge/-Frontend-437CAC?logo=Github&logoColor=white&style=flat"></a>
-      <a href="https://github.com/NOC-OI/imfe-pilot-api"><img src="https://img.shields.io/badge/-Backend-437CAC?logo=Github&logoColor=white&style=flat"></a>
-      <a href="https://github.com/NOC-OI/imfe-pilot-tileserver"><img src="https://img.shields.io/badge/-Tile Server-437CAC?logo=Github&logoColor=white&style=flat"></a>
-      <a href="https://github.com/NOC-OI/data_pipelines"><img src="https://img.shields.io/badge/-Data Enginner-437CAC?logo=Github&logoColor=white&style=flat"></a>
-      <a href="https://noc-oi.github.io/imfe-pilot-documentation/"><img src="https://img.shields.io/badge/-Docs-DC8F0F?logo=readthedocs&logoColor=white&style=flat"></a>
-      <a href="https://imfe-pilot.noc.ac.uk/"><img src="https://img.shields.io/badge/App-8A2BE2"></a><br/>
+      <a href="https://github.com/NOC-OI/imfe-pilot-frontend" target="_blank"><img src="https://img.shields.io/badge/-Frontend-437CAC?logo=Github&logoColor=white&style=flat"></a>
+      <a href="https://github.com/NOC-OI/imfe-pilot-api" target="_blank"><img src="https://img.shields.io/badge/-Backend-437CAC?logo=Github&logoColor=white&style=flat"></a>
+      <a href="https://github.com/NOC-OI/imfe-pilot-tileserver" target="_blank"><img src="https://img.shields.io/badge/-Tile Server-437CAC?logo=Github&logoColor=white&style=flat"></a>
+      <a href="https://github.com/NOC-OI/data_pipelines" target="_blank"><img src="https://img.shields.io/badge/-Data Enginner-437CAC?logo=Github&logoColor=white&style=flat"></a>
+      <a href="https://noc-oi.github.io/imfe-pilot-documentation/" target="_blank"><img src="https://img.shields.io/badge/-Docs-DC8F0F?logo=readthedocs&logoColor=white&style=flat"></a>
+      <a href="https://imfe-pilot.noc.ac.uk/" target="_blank"><img src="https://img.shields.io/badge/App-8A2BE2"></a><br/>
     </td>
   </tr>
   <tr>
@@ -87,17 +87,17 @@
       A full-stack application to visualize all the environmental data collected on the Work Packages of Atlantis Project<br/>
       <br/>
       <em>Contributions: entire application</em><br/>
-      <a href="https://gitlab.com/nocacuk/ocean-informatics/class/react-frontend"><img src="https://img.shields.io/badge/-React Frontend-437CAC?logo=Gitlab&logoColor=white&style=flat"></a>
-      <a href="https://github.com/NOC-OI/class_streamlit_zarr"><img src="https://img.shields.io/badge/-Streamlit Frontend-437CAC?logo=GitHub&logoColor=white&style=flat"></a>
-      <a href="https://github.com/NOC-OI/imfe-pilot-tileserver"><img src="https://img.shields.io/badge/-Tile Server-437CAC?logo=Github&logoColor=white&style=flat"></a>
-      <a href="https://github.com/NOC-OI/class_titiler_xarray"><img src="https://img.shields.io/badge/-Multidim Tile Server-437CAC?logo=Github&logoColor=white&style=flat"></a>
-      <a href="https://github.com/NOC-OI/NEMO_cylc"><img src="https://img.shields.io/badge/-Data Enginner1-437CAC?logo=Github&logoColor=white&style=flat"></a>
-      <a href="https://github.com/NOC-OI/msm-os"><img src="https://img.shields.io/badge/-Data Enginner2-437CAC?logo=Github&logoColor=white&style=flat"></a>
-      <a href="https://github.com/NOC-OI/data_pipelines"><img src="https://img.shields.io/badge/-Data Enginner3-437CAC?logo=Github&logoColor=white&style=flat"></a>
-      <a href="https://gitlab.com/nocacuk/ocean-informatics/ReSOW/geoserver"><img src="https://img.shields.io/badge/-Geoserver-437CAC?logo=gitlab&logoColor=white&style=flat"></a>
-      <a href="https://react.zarr-tile-server.xyz/"><img src="https://img.shields.io/badge/App1-8A2BE2"></a>
-      <a href="https://streamlit.zarr-tile-server.xyz/"><img src="https://img.shields.io/badge/App2-8A2BE2"></a><br/>
-      <a href="https://atlantis-ocean.com/"><img src="https://img.shields.io/badge/-Project Page-3b9c62?logoColor=white&style=flat"></a>
+      <a href="https://gitlab.com/nocacuk/ocean-informatics/class/react-frontend" target="_blank"><img src="https://img.shields.io/badge/-React Frontend-437CAC?logo=Gitlab&logoColor=white&style=flat"></a>
+      <a href="https://github.com/NOC-OI/class_streamlit_zarr" target="_blank"><img src="https://img.shields.io/badge/-Streamlit Frontend-437CAC?logo=GitHub&logoColor=white&style=flat"></a>
+      <a href="https://github.com/NOC-OI/imfe-pilot-tileserver" target="_blank"><img src="https://img.shields.io/badge/-Tile Server-437CAC?logo=Github&logoColor=white&style=flat"></a>
+      <a href="https://github.com/NOC-OI/class_titiler_xarray" target="_blank"><img src="https://img.shields.io/badge/-Multidim Tile Server-437CAC?logo=Github&logoColor=white&style=flat"></a>
+      <a href="https://github.com/NOC-OI/NEMO_cylc" target="_blank"><img src="https://img.shields.io/badge/-Data Enginner1-437CAC?logo=Github&logoColor=white&style=flat"></a>
+      <a href="https://github.com/NOC-OI/msm-os" target="_blank"><img src="https://img.shields.io/badge/-Data Enginner2-437CAC?logo=Github&logoColor=white&style=flat"></a>
+      <a href="https://github.com/NOC-OI/data_pipelines" target="_blank"><img src="https://img.shields.io/badge/-Data Enginner3-437CAC?logo=Github&logoColor=white&style=flat"></a>
+      <a href="https://gitlab.com/nocacuk/ocean-informatics/ReSOW/geoserver" target="_blank"><img src="https://img.shields.io/badge/-Geoserver-437CAC?logo=gitlab&logoColor=white&style=flat"></a>
+      <a href="https://react.zarr-tile-server.xyz/" target="_blank"><img src="https://img.shields.io/badge/App1-8A2BE2"></a>
+      <a href="https://streamlit.zarr-tile-server.xyz/" target="_blank"><img src="https://img.shields.io/badge/App2-8A2BE2"></a><br/>
+      <a href="https://atlantis-ocean.com/" target="_blank"><img src="https://img.shields.io/badge/-Project Page-3b9c62?logoColor=white&style=flat"></a>
     </td>
   </tr>
   <tr>
@@ -109,9 +109,9 @@
       <br/>
       An AI-powered model and full-stack application aimed at guiding nature-based solutions for climate change in Portugal.<br/>
       <em>Contributions: front-end and data pipelines</em><br/>
-      <a href="https://github.com/soutobias/galene.online"><img src="https://img.shields.io/badge/-Frontend-437CAC?logo=Github&logoColor=white&style=flat"></a>
-      <a href="https://github.com/soutobias/image-conversion-galene"><img src="https://img.shields.io/badge/-Data Enginner-437CAC?logo=Github&logoColor=white&style=flat"></a>
-      <a href="https://galene-online.vercel.app/"><img src="https://img.shields.io/badge/App-8A2BE2"></a><br/>
+      <a href="https://github.com/soutobias/galene.online" target="_blank"><img src="https://img.shields.io/badge/-Frontend-437CAC?logo=Github&logoColor=white&style=flat"></a>
+      <a href="https://github.com/soutobias/image-conversion-galene" target="_blank"><img src="https://img.shields.io/badge/-Data Enginner-437CAC?logo=Github&logoColor=white&style=flat"></a>
+      <a href="https://galene-online.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/App-8A2BE2"></a><br/>
     </td>
   </tr>
   <tr>
@@ -123,7 +123,7 @@
       </a><br/>
       A digital twin for the Marine Autonomous Systems of National Oceanography Centre (NOC).<br/>
       <em>Contributions: weather model data ETL and geoserver</em><br/>
-      <a href="https://gtr.ukri.org/projects?ref=NE%2FZ503381%2F1"><img src="https://img.shields.io/badge/-Project Page-3b9c62?logoColor=white&style=flat"></a>
+      <a href="https://gtr.ukri.org/projects?ref=NE%2FZ503381%2F1" target="_blank"><img src="https://img.shields.io/badge/-Project Page-3b9c62?logoColor=white&style=flat"></a>
     </td>
   </tr>
   <tr>
@@ -133,9 +133,9 @@
       <img src="https://www.python.org/static/opengraph-icon-200x200.png" alt="Python logo" width="20" height="20"><br/>
       A Python toolbox for evaluating kilometer-scale ocean models, conducting statistical analyses, and facilitating model validation.<br/>
       <em>Contributions: development of new features related to data visualization, code optimization, CI/CD codes and adapt code to cloud-optimized data formats.</em><br/>
-      <a href="https://github.com/British-Oceanographic-Data-Centre/COAsT"><img src="https://img.shields.io/badge/-GitHub-437CAC?logo=Github&logoColor=white&style=flat"></a>
-      <a href="https://british-oceanographic-data-centre.github.io/COAsT/"><img src="https://img.shields.io/badge/-Docs-DC8F0F?logo=readthedocs&logoColor=white&style=flat"></a>
-      <a href="https://pypi.org/project/COAsT/"><img src="https://img.shields.io/badge/-PyPI-3776AB?logo=pypi&logoColor=white&style=flat"></a>
+      <a href="https://github.com/British-Oceanographic-Data-Centre/COAsT" target="_blank"><img src="https://img.shields.io/badge/-GitHub-437CAC?logo=Github&logoColor=white&style=flat"></a>
+      <a href="https://british-oceanographic-data-centre.github.io/COAsT/" target="_blank"><img src="https://img.shields.io/badge/-Docs-DC8F0F?logo=readthedocs&logoColor=white&style=flat"></a>
+      <a href="https://pypi.org/project/COAsT/" target="_blank"><img src="https://img.shields.io/badge/-PyPI-3776AB?logo=pypi&logoColor=white&style=flat"></a>
     </td>
   </tr>
   <tr>
@@ -149,10 +149,10 @@
       </a><br/>
       A full-stack application to handle all free meteoceanographic data available in real time for the South Atlantic.<br/>
       <em>Contributions: entire application</em><br/>
-      <a href="https://github.com/soutobias/oceanoobsbrasil_web"><img src="https://img.shields.io/badge/-Frontend-437CAC?logo=Github&logoColor=white&style=flat"></a>
-      <a href="https://github.com/soutobias/remobs_api"><img src="https://img.shields.io/badge/-REST Api-437CAC?logo=Github&logoColor=white&style=flat"></a>
-      <a href="https://github.com/soutobias/oceanobs"><img src="https://img.shields.io/badge/-Data Engineer-437CAC?logo=Github&logoColor=white&style=flat"></a>
-      <a href="https://oceanos.live"><img src="https://img.shields.io/badge/App-8A2BE2"></a><br/>
+      <a href="https://github.com/soutobias/oceanoobsbrasil_web" target="_blank"><img src="https://img.shields.io/badge/-Frontend-437CAC?logo=Github&logoColor=white&style=flat"></a>
+      <a href="https://github.com/soutobias/remobs_api" target="_blank"><img src="https://img.shields.io/badge/-REST Api-437CAC?logo=Github&logoColor=white&style=flat"></a>
+      <a href="https://github.com/soutobias/oceanobs" target="_blank"><img src="https://img.shields.io/badge/-Data Engineer-437CAC?logo=Github&logoColor=white&style=flat"></a>
+      <a href="https://oceanos.live" target="_blank"><img src="https://img.shields.io/badge/App-8A2BE2"></a><br/>
     </td>
   </tr>
   <tr>
@@ -164,7 +164,7 @@
       </a><br/>
       Develop a functional Phase 1 dashboard for the CCS Carbon Dioxide Monitoring Project for use by oil and gas organizations.<br/>
       <em>Contributions: entire backend end, frontend and data engineer</em><br/>
-      <a href="https://ccsdashboard.com/"><img src="https://img.shields.io/badge/App-8A2BE2"></a><br/>
+      <a href="https://ccsdashboard.com/" target="_blank"><img src="https://img.shields.io/badge/App-8A2BE2"></a><br/>
     </td>
   </tr>
   <tr>
@@ -176,10 +176,10 @@
       </a><br/>
       NLP analysis for Brazil and US Ellections using deep learning techniques and pre-trained sentiment analysis models.<br/>
       <em>Contributions: backend and entire frontend</em><br/>
-      <a href="https://github.com/soutobias/dharmaproject"><img src="https://img.shields.io/badge/-Frontend-437CAC?logo=Github&logoColor=white&style=flat"></a>
-      <a href="https://github.com/soutobias/dharma_analysis"><img src="https://img.shields.io/badge/-Model-437CAC?logo=Github&logoColor=white&style=flat"></a>
-      <a href="https://github.com/soutobias/bucketapi"><img src="https://img.shields.io/badge/-REST Api-437CAC?logo=Github&logoColor=white&style=flat"></a>
-      <a href="https://thawing-ravine-94463-d6da17684316.herokuapp.com/"><img src="https://img.shields.io/badge/App-8A2BE2"></a><br/>
+      <a href="https://github.com/soutobias/dharmaproject" target="_blank"><img src="https://img.shields.io/badge/-Frontend-437CAC?logo=Github&logoColor=white&style=flat"></a>
+      <a href="https://github.com/soutobias/dharma_analysis" target="_blank"><img src="https://img.shields.io/badge/-Model-437CAC?logo=Github&logoColor=white&style=flat"></a>
+      <a href="https://github.com/soutobias/bucketapi" target="_blank"><img src="https://img.shields.io/badge/-REST Api-437CAC?logo=Github&logoColor=white&style=flat"></a>
+      <a href="https://thawing-ravine-94463-d6da17684316.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/App-8A2BE2"></a><br/>
     </td>
   </tr>
   <tr>
@@ -195,13 +195,13 @@
       </a><br/>
       Command and control system for managing the weather buoys of the National Buoys Program, and is related to data mining, data engineer, databases and frontend applications.<br/>
       <em>Contributions: main developer</em><br/>
-      <a href="https://github.com/pnboia-brasil/buoy_web_antartica"><img src="https://img.shields.io/badge/-Data Frontend1-437CAC?logo=Github&logoColor=white&style=flat"></a>
-      <a href="https://github.com/pnboia-brasil/buoy_web_noronha"><img src="https://img.shields.io/badge/-Data Frontend2-437CAC?logo=Github&logoColor=white&style=flat"></a>
-      <a href="https://github.com/pnboia-brasil/buoy_web_imbituba"><img src="https://img.shields.io/badge/-Data Frontend3-437CAC?logo=Github&logoColor=white&style=flat"></a>
-      <a href="https://github.com/pnboia-brasil/buoy_web_alcatrazes"><img src="https://img.shields.io/badge/-Data Frontend4-437CAC?logo=Github&logoColor=white&style=flat"></a>
-      <a href="https://github.com/soutobias/equip-chm112"><img src="https://img.shields.io/badge/-Inventory Frontend-437CAC?logo=Github&logoColor=white&style=flat"></a>
-      <a href="https://github.com/pnboia-brasil/pnboia_api"><img src="https://img.shields.io/badge/-REST Api-437CAC?logo=Github&logoColor=white&style=flat"></a>
-      <a href="https://github.com/soutobias/remobs_qc"><img src="https://img.shields.io/badge/-Data Engineer-437CAC?logo=Github&logoColor=white&style=flat"></a>
+      <a href="https://github.com/pnboia-brasil/buoy_web_antartica" target="_blank"><img src="https://img.shields.io/badge/-Data Frontend1-437CAC?logo=Github&logoColor=white&style=flat"></a>
+      <a href="https://github.com/pnboia-brasil/buoy_web_noronha" target="_blank"><img src="https://img.shields.io/badge/-Data Frontend2-437CAC?logo=Github&logoColor=white&style=flat"></a>
+      <a href="https://github.com/pnboia-brasil/buoy_web_imbituba" target="_blank"><img src="https://img.shields.io/badge/-Data Frontend3-437CAC?logo=Github&logoColor=white&style=flat"></a>
+      <a href="https://github.com/pnboia-brasil/buoy_web_alcatrazes" target="_blank"><img src="https://img.shields.io/badge/-Data Frontend4-437CAC?logo=Github&logoColor=white&style=flat"></a>
+      <a href="https://github.com/soutobias/equip-chm112" target="_blank"><img src="https://img.shields.io/badge/-Inventory Frontend-437CAC?logo=Github&logoColor=white&style=flat"></a>
+      <a href="https://github.com/pnboia-brasil/pnboia_api" target="_blank"><img src="https://img.shields.io/badge/-REST Api-437CAC?logo=Github&logoColor=white&style=flat"></a>
+      <a href="https://github.com/soutobias/remobs_qc" target="_blank"><img src="https://img.shields.io/badge/-Data Engineer-437CAC?logo=Github&logoColor=white&style=flat"></a>
     </td>
   </tr>
   <tr>
@@ -211,8 +211,8 @@
       <img src="https://www.python.org/static/opengraph-icon-200x200.png" alt="Python logo" width="20" height="20"><br/>
       An open-source Python toolbox for quality control of time series data collected in the ocean, specifically for the Brazilian National Buoy Program (PNBOIA).</em><br/>
       <em>Contributions: main developer.</em><br/>
-      <a href="https://github.com/PNBOIA-Brasil/pnboia_qc"><img src="https://img.shields.io/badge/-GitHub-437CAC?logo=Github&logoColor=white&style=flat"></a>
-      <a href="https://pypi.org/project/pnboia-qc/"><img src="https://img.shields.io/badge/-PyPI-3776AB?logo=pypi&logoColor=white&style=flat"></a>
+      <a href="https://github.com/PNBOIA-Brasil/pnboia_qc" target="_blank"><img src="https://img.shields.io/badge/-GitHub-437CAC?logo=Github&logoColor=white&style=flat"></a>
+      <a href="https://pypi.org/project/pnboia-qc/" target="_blank"><img src="https://img.shields.io/badge/-PyPI-3776AB?logo=pypi&logoColor=white&style=flat"></a>
     </td>
   </tr>
   <tr>
@@ -222,8 +222,8 @@
       <img src="https://www.python.org/static/opengraph-icon-200x200.png" alt="Python logo" width="20" height="20"><br/>
       An open-source Python package to consume the API from the Brazilian National Institute of Meteorology (INMET).<br/>
       <em>Contributions: development of some features.</em><br/>
-      <a href="https://github.com/ocfgaldino/inmetpy"><img src="https://img.shields.io/badge/-GitHub-437CAC?logo=Github&logoColor=white&style=flat"></a>
-      <a href="https://pypi.org/project/inmetpy/"><img src="https://img.shields.io/badge/-PyPI-3776AB?logo=pypi&logoColor=white&style=flat"></a>
+      <a href="https://github.com/ocfgaldino/inmetpy" target="_blank"><img src="https://img.shields.io/badge/-GitHub-437CAC?logo=Github&logoColor=white&style=flat"></a>
+      <a href="https://pypi.org/project/inmetpy/" target="_blank"><img src="https://img.shields.io/badge/-PyPI-3776AB?logo=pypi&logoColor=white&style=flat"></a>
     </td>
   </tr>
   <tr>
@@ -236,8 +236,8 @@
       </a><br/>
       A web application to manage the Forró Liverpool community, including events, members, and more.<br/>
       <em>Contributions: main developer.</em><br/>
-      <a href="https://github.com/soutobias/forro_liverpool"><img src="https://img.shields.io/badge/-GitHub-437CAC?logo=Github&logoColor=white&style=flat"></a>
-      <a href="https://www.forroliverpool.co.uk/"><img src="https://img.shields.io/badge/App-8A2BE2"></a><br/>
+      <a href="https://github.com/soutobias/forro_liverpool" target="_blank"><img src="https://img.shields.io/badge/-GitHub-437CAC?logo=Github&logoColor=white&style=flat"></a>
+      <a href="https://www.forroliverpool.co.uk/" target="_blank"><img src="https://img.shields.io/badge/App-8A2BE2"></a><br/>
     </td>
   </tr>
 </table>
