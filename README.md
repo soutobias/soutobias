@@ -12,8 +12,6 @@
   <a href="mailto:tobias.ramalho.ferreira@gmail.com"><img src="https://img.icons8.com/fluent/32/000000/email.png" alt="Email"/></a>
 </div>
 
-
-
 <hr>
 <hr>
 
