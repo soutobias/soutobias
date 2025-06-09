@@ -95,8 +95,8 @@
       <a href="https://github.com/NOC-OI/msm-os" target="_blank"><img src="https://img.shields.io/badge/-Data Enginner2-437CAC?logo=Github&logoColor=white&style=flat"></a>
       <a href="https://github.com/NOC-OI/data_pipelines" target="_blank"><img src="https://img.shields.io/badge/-Data Enginner3-437CAC?logo=Github&logoColor=white&style=flat"></a>
       <a href="https://gitlab.com/nocacuk/ocean-informatics/ReSOW/geoserver" target="_blank"><img src="https://img.shields.io/badge/-Geoserver-437CAC?logo=gitlab&logoColor=white&style=flat"></a>
-      <a href="https://react.zarr-tile-server.xyz/" target="_blank"><img src="https://img.shields.io/badge/App1-8A2BE2"></a>
-      <a href="https://streamlit.zarr-tile-server.xyz/" target="_blank"><img src="https://img.shields.io/badge/App2-8A2BE2"></a><br/>
+      <a href="https://react.atlantis44.xyz/" target="_blank"><img src="https://img.shields.io/badge/App1-8A2BE2"></a>
+      <a href="https://streamlit.atlantis44.xyz/" target="_blank"><img src="https://img.shields.io/badge/App2-8A2BE2"></a><br/>
       <a href="https://atlantis-ocean.com/" target="_blank"><img src="https://img.shields.io/badge/-Project Page-3b9c62?logoColor=white&style=flat"></a>
     </td>
   </tr>
