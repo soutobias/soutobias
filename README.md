@@ -19,7 +19,8 @@
 
 <table>
   <tr>
-    <td><img src="_static/zarr.png" width="400"/></td>
+    <td>
+      <video src="https://github.com/user-attachments/assets/8b066725-c6c7-4b7a-9fc0-d632b623937c"/></td>
     <td>
       <strong>Zarr Visualisation</strong>
       <img src="https://www.python.org/static/opengraph-icon-200x200.png" alt="Python logo" width="20" height="20">
