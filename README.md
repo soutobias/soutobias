@@ -15,21 +15,27 @@
 <hr>
 <hr>
 
-<h3 align="center"> My GitHub Stats</h3>
-
-<p align="center">
-<a href="https://github.com/soutobias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soutobias&&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-</a>
-</p>
-
-
-<hr>
-<hr>
-
 <h3 align="center"> Main projects</h3>
 
 <table>
+  <tr>
+    <td><img src="_static/zarr.png" width="400"/></td>
+    <td>
+      <strong>Zarr Visualisation</strong>
+      <img src="https://www.python.org/static/opengraph-icon-200x200.png" alt="Python logo" width="20" height="20">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React logo" width="20" height="20">
+      </a><br/>
+      A set of tools and repositories for visualizing Zarr datasets in a browser. This includes "zarr-vis", an aggregation of tools for visualizing Zarr datasets in a browser, and "zarr-cesium", an open-source package for visualizing Zarr datasets on cesium maps. These tools were developed for the Atlantis project (see below).
+      <em>Contributions: entire application</em><br/>
+      <a href="https://github.com/NOC-OI/zarr-vis" target="_blank"><img src="https://img.shields.io/badge/-Zarr_vis-437CAC?logo=Github&logoColor=white&style=flat"></a>
+      <a href="https://github.com/NOC-OI/zarr-cesium" target="_blank"><img src="https://img.shields.io/badge/-Zarr_cesium-437CAC?logo=Github&logoColor=white&style=flat"></a>
+      <a href="https://noc-oi.github.io/zarr-cesium/docs" target="_blank"><img src="https://img.shields.io/badge/-Docs-DC8F0F?logo=readthedocs&logoColor=white&style=flat"></a>
+      <a href="https://medium.com/@tobias.ramalho.ferreira/zarr-in-the-browser-fast-flexible-and-surprisingly-powerful-for-big-geo-data-eeb90ddf8a3d" target="_blank"><img src="https://img.shields.io/badge/-Docs2-DC8F0F?logo=readthedocs&logoColor=white&style=flat"></a>
+      <a href="https://noc-oi.github.io/zarr-cesium/" target="_blank"><img src="https://img.shields.io/badge/App-8A2BE2"></a>
+      <a href="https://noc-oi.github.io/zarr-vis/" target="_blank"><img src="https://img.shields.io/badge/App2-8A2BE2"></a>
+      <a href="https://atlantis-ocean.com/" target="_blank"><img src="https://img.shields.io/badge/-Project Page-3b9c62?logoColor=white&style=flat"></a><br/>
+    </td>
+  </tr>
   <tr>
     <td><img src="_static/ceeds.png" width="400"/></td>
     <td>
@@ -61,23 +67,6 @@
     </td>
   </tr>
   <tr>
-    <td><img src="_static/imfe.png" width="400"/></td>
-    <td>
-      <strong>Environmental Digital Twin Pilot Project for Haig Fras</strong>
-      <img src="https://www.python.org/static/opengraph-icon-200x200.png" alt="Python logo" width="20" height="20">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React logo" width="20" height="20">
-      </a><br/>
-      An  Environmental Digital Twin Pilot Project for a Marine Protected Area in the UK (Haig Fras MPA).<br/>
-      <em>Contributions: entire application</em><br/>
-      <a href="https://github.com/NOC-OI/imfe-pilot-frontend" target="_blank"><img src="https://img.shields.io/badge/-Frontend-437CAC?logo=Github&logoColor=white&style=flat"></a>
-      <a href="https://github.com/NOC-OI/imfe-pilot-api" target="_blank"><img src="https://img.shields.io/badge/-Backend-437CAC?logo=Github&logoColor=white&style=flat"></a>
-      <a href="https://github.com/NOC-OI/imfe-pilot-tileserver" target="_blank"><img src="https://img.shields.io/badge/-Tile Server-437CAC?logo=Github&logoColor=white&style=flat"></a>
-      <a href="https://github.com/NOC-OI/data_pipelines" target="_blank"><img src="https://img.shields.io/badge/-Data Enginner-437CAC?logo=Github&logoColor=white&style=flat"></a>
-      <a href="https://noc-oi.github.io/imfe-pilot-documentation/" target="_blank"><img src="https://img.shields.io/badge/-Docs-DC8F0F?logo=readthedocs&logoColor=white&style=flat"></a>
-      <a href="https://imfe-pilot.noc.ac.uk/" target="_blank"><img src="https://img.shields.io/badge/App-8A2BE2"></a><br/>
-    </td>
-  </tr>
-  <tr>
     <td><img src="_static/atlantis.png" width="400"/></td>
     <td>
       <strong>Atlantis Visualization Tool - <em>On going project</em></strong>
@@ -96,8 +85,25 @@
       <a href="https://github.com/NOC-OI/data_pipelines" target="_blank"><img src="https://img.shields.io/badge/-Data Enginner3-437CAC?logo=Github&logoColor=white&style=flat"></a>
       <a href="https://gitlab.com/nocacuk/ocean-informatics/ReSOW/geoserver" target="_blank"><img src="https://img.shields.io/badge/-Geoserver-437CAC?logo=gitlab&logoColor=white&style=flat"></a>
       <a href="https://react.atlantis44.xyz/" target="_blank"><img src="https://img.shields.io/badge/App1-8A2BE2"></a>
-      <a href="https://streamlit.atlantis44.xyz/" target="_blank"><img src="https://img.shields.io/badge/App2-8A2BE2"></a><br/>
+      <a href="https://streamlit.atlantis44.xyz/" target="_blank"><img src="https://img.shields.io/badge/App2-8A2BE2"></a>
       <a href="https://atlantis-ocean.com/" target="_blank"><img src="https://img.shields.io/badge/-Project Page-3b9c62?logoColor=white&style=flat"></a>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="_static/imfe.png" width="400"/></td>
+    <td>
+      <strong>Environmental Digital Twin Pilot Project for Haig Fras</strong>
+      <img src="https://www.python.org/static/opengraph-icon-200x200.png" alt="Python logo" width="20" height="20">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React logo" width="20" height="20">
+      </a><br/>
+      An  Environmental Digital Twin Pilot Project for a Marine Protected Area in the UK (Haig Fras MPA).<br/>
+      <em>Contributions: entire application</em><br/>
+      <a href="https://github.com/NOC-OI/imfe-pilot-frontend" target="_blank"><img src="https://img.shields.io/badge/-Frontend-437CAC?logo=Github&logoColor=white&style=flat"></a>
+      <a href="https://github.com/NOC-OI/imfe-pilot-api" target="_blank"><img src="https://img.shields.io/badge/-Backend-437CAC?logo=Github&logoColor=white&style=flat"></a>
+      <a href="https://github.com/NOC-OI/imfe-pilot-tileserver" target="_blank"><img src="https://img.shields.io/badge/-Tile Server-437CAC?logo=Github&logoColor=white&style=flat"></a>
+      <a href="https://github.com/NOC-OI/data_pipelines" target="_blank"><img src="https://img.shields.io/badge/-Data Enginner-437CAC?logo=Github&logoColor=white&style=flat"></a>
+      <a href="https://noc-oi.github.io/imfe-pilot-documentation/" target="_blank"><img src="https://img.shields.io/badge/-Docs-DC8F0F?logo=readthedocs&logoColor=white&style=flat"></a>
+      <a href="https://imfe-pilot.noc.ac.uk/" target="_blank"><img src="https://img.shields.io/badge/App-8A2BE2"></a><br/>
     </td>
   </tr>
   <tr>
