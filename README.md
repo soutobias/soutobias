@@ -29,11 +29,14 @@
       A set of tools and repositories for visualizing Zarr datasets in a browser. This includes "zarr-vis", an aggregation of tools for visualizing Zarr datasets in a browser, and "zarr-cesium", an open-source package for visualizing Zarr datasets on cesium maps. These tools were developed for the Atlantis project (see below).
       <em>Contributions: entire application</em><br/>
       <a href="https://github.com/NOC-OI/zarr-vis" target="_blank"><img src="https://img.shields.io/badge/-Zarr_vis-437CAC?logo=Github&logoColor=white&style=flat"></a>
+      <a href="https://medium.com/@tobias.ramalho.ferreira/zarr-in-the-browser-fast-flexible-and-surprisingly-powerful-for-big-geo-data-eeb90ddf8a3d" target="_blank"><img src="https://img.shields.io/badge/-Article-DC8F0F?logo=readthedocs&logoColor=white&style=flat"></a>
+      <a href="https://noc-oi.github.io/zarr-vis/" target="_blank"><img src="https://img.shields.io/badge/App-8A2BE2"></a>
       <a href="https://github.com/NOC-OI/zarr-cesium" target="_blank"><img src="https://img.shields.io/badge/-Zarr_cesium-437CAC?logo=Github&logoColor=white&style=flat"></a>
       <a href="https://noc-oi.github.io/zarr-cesium/docs" target="_blank"><img src="https://img.shields.io/badge/-Docs-DC8F0F?logo=readthedocs&logoColor=white&style=flat"></a>
-      <a href="https://medium.com/@tobias.ramalho.ferreira/zarr-in-the-browser-fast-flexible-and-surprisingly-powerful-for-big-geo-data-eeb90ddf8a3d" target="_blank"><img src="https://img.shields.io/badge/-Docs2-DC8F0F?logo=readthedocs&logoColor=white&style=flat"></a>
       <a href="https://noc-oi.github.io/zarr-cesium/" target="_blank"><img src="https://img.shields.io/badge/App-8A2BE2"></a>
-      <a href="https://noc-oi.github.io/zarr-vis/" target="_blank"><img src="https://img.shields.io/badge/App2-8A2BE2"></a>
+      <a href="https://github.com/NOC-OI/zarr-maps" target="_blank"><img src="https://img.shields.io/badge/-Zarr_maps-437CAC?logo=Github&logoColor=white&style=flat"></a>
+      <a href="https://noc-oi.github.io/zarr-maps/docs" target="_blank"><img src="https://img.shields.io/badge/-Docs-DC8F0F?logo=readthedocs&logoColor=white&style=flat"></a>
+      <a href="https://noc-oi.github.io/zarr-cesium/" target="_blank"><img src="https://img.shields.io/badge/App-8A2BE2"></a>
       <a href="https://atlantis-ocean.com/" target="_blank"><img src="https://img.shields.io/badge/-Project Page-3b9c62?logoColor=white&style=flat"></a><br/>
     </td>
   </tr>
@@ -76,17 +79,12 @@
       </a><br/>
       A full-stack application to visualize all the environmental data collected on the Work Packages of Atlantis Project<br/>
       <br/>
+      <em>Private repositories</em><br/>
       <em>Contributions: entire application</em><br/>
-      <a href="https://gitlab.com/nocacuk/ocean-informatics/class/react-frontend" target="_blank"><img src="https://img.shields.io/badge/-React Frontend-437CAC?logo=Gitlab&logoColor=white&style=flat"></a>
-      <a href="https://github.com/NOC-OI/class_streamlit_zarr" target="_blank"><img src="https://img.shields.io/badge/-Streamlit Frontend-437CAC?logo=GitHub&logoColor=white&style=flat"></a>
-      <a href="https://github.com/NOC-OI/imfe-pilot-tileserver" target="_blank"><img src="https://img.shields.io/badge/-Tile Server-437CAC?logo=Github&logoColor=white&style=flat"></a>
-      <a href="https://github.com/NOC-OI/class_titiler_xarray" target="_blank"><img src="https://img.shields.io/badge/-Multidim Tile Server-437CAC?logo=Github&logoColor=white&style=flat"></a>
       <a href="https://github.com/NOC-OI/NEMO_cylc" target="_blank"><img src="https://img.shields.io/badge/-Data Enginner1-437CAC?logo=Github&logoColor=white&style=flat"></a>
       <a href="https://github.com/NOC-OI/msm-os" target="_blank"><img src="https://img.shields.io/badge/-Data Enginner2-437CAC?logo=Github&logoColor=white&style=flat"></a>
       <a href="https://github.com/NOC-OI/data_pipelines" target="_blank"><img src="https://img.shields.io/badge/-Data Enginner3-437CAC?logo=Github&logoColor=white&style=flat"></a>
       <a href="https://gitlab.com/nocacuk/ocean-informatics/ReSOW/geoserver" target="_blank"><img src="https://img.shields.io/badge/-Geoserver-437CAC?logo=gitlab&logoColor=white&style=flat"></a>
-      <a href="https://react.atlantis44.xyz/" target="_blank"><img src="https://img.shields.io/badge/App1-8A2BE2"></a>
-      <a href="https://streamlit.atlantis44.xyz/" target="_blank"><img src="https://img.shields.io/badge/App2-8A2BE2"></a>
       <a href="https://atlantis-ocean.com/" target="_blank"><img src="https://img.shields.io/badge/-Project Page-3b9c62?logoColor=white&style=flat"></a>
     </td>
   </tr>
