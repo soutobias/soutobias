@@ -160,7 +160,7 @@
       <a href="https://oceanos.live" target="_blank"><img src="https://img.shields.io/badge/App-8A2BE2"></a><br/>
     </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td><img src="_static/ccs.png" width="400"/></td>
     <td>
       <strong>Dashboard for Persistent Autonomous Monitoring Service</strong>
@@ -171,7 +171,7 @@
       <em>Contributions: entire backend end, frontend and data engineer</em><br/>
       <a href="https://ccsdashboard.com/" target="_blank"><img src="https://img.shields.io/badge/App-8A2BE2"></a><br/>
     </td>
-  </tr>
+  </tr> -->
   <tr>
     <td><img src="_static/dharma.png" width="400"/></td>
     <td>
